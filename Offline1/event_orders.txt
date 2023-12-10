@@ -13,12 +13,12 @@
 ---------No. of customers delayed: 3--------
 
 6. Next event: Customer 4 Arrival
-7. Next event: Customer 4 Arrival
+7. Next event: Customer 5 Arrival
 8. Next event: Customer 3 Departure
 
 ---------No. of customers delayed: 4--------
 
-9. Next event: Customer 5 Arrival
+9. Next event: Customer 6 Arrival
 10. Next event: Customer 4 Departure
 
 ---------No. of customers delayed: 5--------
@@ -93,11 +93,11 @@
 ---------No. of customers delayed: 19--------
 
 38. Next event: Customer 20 Arrival
-39. Next event: Customer 20 Arrival
-40. Next event: Customer 20 Arrival
-41. Next event: Customer 20 Arrival
-42. Next event: Customer 20 Arrival
-43. Next event: Customer 20 Arrival
+39. Next event: Customer 21 Arrival
+40. Next event: Customer 22 Arrival
+41. Next event: Customer 23 Arrival
+42. Next event: Customer 24 Arrival
+43. Next event: Customer 25 Arrival
 44. Next event: Customer 19 Departure
 
 ---------No. of customers delayed: 20--------
@@ -114,7 +114,7 @@
 
 ---------No. of customers delayed: 23--------
 
-48. Next event: Customer 24 Arrival
+48. Next event: Customer 26 Arrival
 49. Next event: Customer 23 Departure
 
 ---------No. of customers delayed: 24--------
@@ -193,7 +193,7 @@
 ---------No. of customers delayed: 39--------
 
 78. Next event: Customer 40 Arrival
-79. Next event: Customer 40 Arrival
+79. Next event: Customer 41 Arrival
 80. Next event: Customer 39 Departure
 
 ---------No. of customers delayed: 40--------
@@ -233,7 +233,7 @@
 ---------No. of customers delayed: 47--------
 
 94. Next event: Customer 48 Arrival
-95. Next event: Customer 48 Arrival
+95. Next event: Customer 49 Arrival
 96. Next event: Customer 47 Departure
 
 ---------No. of customers delayed: 48--------
@@ -243,12 +243,12 @@
 ---------No. of customers delayed: 49--------
 
 98. Next event: Customer 50 Arrival
-99. Next event: Customer 50 Arrival
+99. Next event: Customer 51 Arrival
 100. Next event: Customer 49 Departure
 
 ---------No. of customers delayed: 50--------
 
-101. Next event: Customer 51 Arrival
+101. Next event: Customer 52 Arrival
 102. Next event: Customer 50 Departure
 
 ---------No. of customers delayed: 51--------
@@ -313,7 +313,7 @@
 ---------No. of customers delayed: 63--------
 
 126. Next event: Customer 64 Arrival
-127. Next event: Customer 64 Arrival
+127. Next event: Customer 65 Arrival
 128. Next event: Customer 63 Departure
 
 ---------No. of customers delayed: 64--------
@@ -358,7 +358,7 @@
 ---------No. of customers delayed: 72--------
 
 144. Next event: Customer 73 Arrival
-145. Next event: Customer 73 Arrival
+145. Next event: Customer 74 Arrival
 146. Next event: Customer 72 Departure
 
 ---------No. of customers delayed: 73--------
@@ -423,13 +423,13 @@
 ---------No. of customers delayed: 85--------
 
 170. Next event: Customer 86 Arrival
-171. Next event: Customer 86 Arrival
-172. Next event: Customer 86 Arrival
+171. Next event: Customer 87 Arrival
+172. Next event: Customer 88 Arrival
 173. Next event: Customer 85 Departure
 
 ---------No. of customers delayed: 86--------
 
-174. Next event: Customer 87 Arrival
+174. Next event: Customer 89 Arrival
 175. Next event: Customer 86 Departure
 
 ---------No. of customers delayed: 87--------
@@ -438,7 +438,7 @@
 
 ---------No. of customers delayed: 88--------
 
-177. Next event: Customer 89 Arrival
+177. Next event: Customer 90 Arrival
 178. Next event: Customer 88 Departure
 
 ---------No. of customers delayed: 89--------
@@ -458,8 +458,8 @@
 ---------No. of customers delayed: 92--------
 
 184. Next event: Customer 93 Arrival
-185. Next event: Customer 93 Arrival
-186. Next event: Customer 93 Arrival
+185. Next event: Customer 94 Arrival
+186. Next event: Customer 95 Arrival
 187. Next event: Customer 92 Departure
 
 ---------No. of customers delayed: 93--------
@@ -468,19 +468,19 @@
 
 ---------No. of customers delayed: 94--------
 
-189. Next event: Customer 95 Arrival
-190. Next event: Customer 95 Arrival
+189. Next event: Customer 96 Arrival
+190. Next event: Customer 97 Arrival
 191. Next event: Customer 94 Departure
 
 ---------No. of customers delayed: 95--------
 
-192. Next event: Customer 96 Arrival
-193. Next event: Customer 96 Arrival
+192. Next event: Customer 98 Arrival
+193. Next event: Customer 99 Arrival
 194. Next event: Customer 95 Departure
 
 ---------No. of customers delayed: 96--------
 
-195. Next event: Customer 97 Arrival
+195. Next event: Customer 100 Arrival
 196. Next event: Customer 96 Departure
 
 ---------No. of customers delayed: 97--------
@@ -489,7 +489,7 @@
 
 ---------No. of customers delayed: 98--------
 
-198. Next event: Customer 99 Arrival
+198. Next event: Customer 101 Arrival
 199. Next event: Customer 98 Departure
 
 ---------No. of customers delayed: 99--------
@@ -508,12 +508,12 @@
 ---------No. of customers delayed: 102--------
 
 204. Next event: Customer 103 Arrival
-205. Next event: Customer 103 Arrival
+205. Next event: Customer 104 Arrival
 206. Next event: Customer 102 Departure
 
 ---------No. of customers delayed: 103--------
 
-207. Next event: Customer 104 Arrival
+207. Next event: Customer 105 Arrival
 208. Next event: Customer 103 Departure
 
 ---------No. of customers delayed: 104--------
@@ -548,19 +548,19 @@
 ---------No. of customers delayed: 110--------
 
 220. Next event: Customer 111 Arrival
-221. Next event: Customer 111 Arrival
-222. Next event: Customer 111 Arrival
+221. Next event: Customer 112 Arrival
+222. Next event: Customer 113 Arrival
 223. Next event: Customer 110 Departure
 
 ---------No. of customers delayed: 111--------
 
-224. Next event: Customer 112 Arrival
+224. Next event: Customer 114 Arrival
 225. Next event: Customer 111 Departure
 
 ---------No. of customers delayed: 112--------
 
-226. Next event: Customer 113 Arrival
-227. Next event: Customer 113 Arrival
+226. Next event: Customer 115 Arrival
+227. Next event: Customer 116 Arrival
 228. Next event: Customer 112 Departure
 
 ---------No. of customers delayed: 113--------
@@ -663,7 +663,7 @@
 ---------No. of customers delayed: 133--------
 
 266. Next event: Customer 134 Arrival
-267. Next event: Customer 134 Arrival
+267. Next event: Customer 135 Arrival
 268. Next event: Customer 133 Departure
 
 ---------No. of customers delayed: 134--------
@@ -688,17 +688,17 @@
 ---------No. of customers delayed: 138--------
 
 276. Next event: Customer 139 Arrival
-277. Next event: Customer 139 Arrival
+277. Next event: Customer 140 Arrival
 278. Next event: Customer 138 Departure
 
 ---------No. of customers delayed: 139--------
 
-279. Next event: Customer 140 Arrival
+279. Next event: Customer 141 Arrival
 280. Next event: Customer 139 Departure
 
 ---------No. of customers delayed: 140--------
 
-281. Next event: Customer 141 Arrival
+281. Next event: Customer 142 Arrival
 282. Next event: Customer 140 Departure
 
 ---------No. of customers delayed: 141--------
@@ -723,7 +723,7 @@
 ---------No. of customers delayed: 145--------
 
 290. Next event: Customer 146 Arrival
-291. Next event: Customer 146 Arrival
+291. Next event: Customer 147 Arrival
 292. Next event: Customer 145 Departure
 
 ---------No. of customers delayed: 146--------
@@ -738,14 +738,14 @@
 ---------No. of customers delayed: 148--------
 
 296. Next event: Customer 149 Arrival
-297. Next event: Customer 149 Arrival
+297. Next event: Customer 150 Arrival
 298. Next event: Customer 148 Departure
 
 ---------No. of customers delayed: 149--------
 
-299. Next event: Customer 150 Arrival
-300. Next event: Customer 150 Arrival
-301. Next event: Customer 150 Arrival
+299. Next event: Customer 151 Arrival
+300. Next event: Customer 152 Arrival
+301. Next event: Customer 153 Arrival
 302. Next event: Customer 149 Departure
 
 ---------No. of customers delayed: 150--------
@@ -763,7 +763,7 @@
 ---------No. of customers delayed: 153--------
 
 306. Next event: Customer 154 Arrival
-307. Next event: Customer 154 Arrival
+307. Next event: Customer 155 Arrival
 308. Next event: Customer 153 Departure
 
 ---------No. of customers delayed: 154--------
@@ -788,13 +788,13 @@
 ---------No. of customers delayed: 158--------
 
 316. Next event: Customer 159 Arrival
-317. Next event: Customer 159 Arrival
-318. Next event: Customer 159 Arrival
+317. Next event: Customer 160 Arrival
+318. Next event: Customer 161 Arrival
 319. Next event: Customer 158 Departure
 
 ---------No. of customers delayed: 159--------
 
-320. Next event: Customer 160 Arrival
+320. Next event: Customer 162 Arrival
 321. Next event: Customer 159 Departure
 
 ---------No. of customers delayed: 160--------
@@ -813,17 +813,17 @@
 ---------No. of customers delayed: 163--------
 
 326. Next event: Customer 164 Arrival
-327. Next event: Customer 164 Arrival
+327. Next event: Customer 165 Arrival
 328. Next event: Customer 163 Departure
 
 ---------No. of customers delayed: 164--------
 
-329. Next event: Customer 165 Arrival
+329. Next event: Customer 166 Arrival
 330. Next event: Customer 164 Departure
 
 ---------No. of customers delayed: 165--------
 
-331. Next event: Customer 166 Arrival
+331. Next event: Customer 167 Arrival
 332. Next event: Customer 165 Departure
 
 ---------No. of customers delayed: 166--------
@@ -868,7 +868,7 @@
 ---------No. of customers delayed: 174--------
 
 348. Next event: Customer 175 Arrival
-349. Next event: Customer 175 Arrival
+349. Next event: Customer 176 Arrival
 350. Next event: Customer 174 Departure
 
 ---------No. of customers delayed: 175--------
@@ -878,18 +878,18 @@
 ---------No. of customers delayed: 176--------
 
 352. Next event: Customer 177 Arrival
-353. Next event: Customer 177 Arrival
+353. Next event: Customer 178 Arrival
 354. Next event: Customer 176 Departure
 
 ---------No. of customers delayed: 177--------
 
-355. Next event: Customer 178 Arrival
+355. Next event: Customer 179 Arrival
 356. Next event: Customer 177 Departure
 
 ---------No. of customers delayed: 178--------
 
-357. Next event: Customer 179 Arrival
-358. Next event: Customer 179 Arrival
+357. Next event: Customer 180 Arrival
+358. Next event: Customer 181 Arrival
 359. Next event: Customer 178 Departure
 
 ---------No. of customers delayed: 179--------
@@ -968,7 +968,7 @@
 ---------No. of customers delayed: 194--------
 
 388. Next event: Customer 195 Arrival
-389. Next event: Customer 195 Arrival
+389. Next event: Customer 196 Arrival
 390. Next event: Customer 194 Departure
 
 ---------No. of customers delayed: 195--------
@@ -998,7 +998,7 @@
 ---------No. of customers delayed: 200--------
 
 400. Next event: Customer 201 Arrival
-401. Next event: Customer 201 Arrival
+401. Next event: Customer 202 Arrival
 402. Next event: Customer 200 Departure
 
 ---------No. of customers delayed: 201--------
@@ -1008,7 +1008,7 @@
 ---------No. of customers delayed: 202--------
 
 404. Next event: Customer 203 Arrival
-405. Next event: Customer 203 Arrival
+405. Next event: Customer 204 Arrival
 406. Next event: Customer 202 Departure
 
 ---------No. of customers delayed: 203--------
@@ -1023,8 +1023,8 @@
 ---------No. of customers delayed: 205--------
 
 410. Next event: Customer 206 Arrival
-411. Next event: Customer 206 Arrival
-412. Next event: Customer 206 Arrival
+411. Next event: Customer 207 Arrival
+412. Next event: Customer 208 Arrival
 413. Next event: Customer 205 Departure
 
 ---------No. of customers delayed: 206--------
@@ -1043,7 +1043,7 @@
 ---------No. of customers delayed: 209--------
 
 418. Next event: Customer 210 Arrival
-419. Next event: Customer 210 Arrival
+419. Next event: Customer 211 Arrival
 420. Next event: Customer 209 Departure
 
 ---------No. of customers delayed: 210--------
@@ -1078,8 +1078,8 @@
 ---------No. of customers delayed: 216--------
 
 432. Next event: Customer 217 Arrival
-433. Next event: Customer 217 Arrival
-434. Next event: Customer 217 Arrival
+433. Next event: Customer 218 Arrival
+434. Next event: Customer 219 Arrival
 435. Next event: Customer 216 Departure
 
 ---------No. of customers delayed: 217--------
@@ -1088,7 +1088,7 @@
 
 ---------No. of customers delayed: 218--------
 
-437. Next event: Customer 219 Arrival
+437. Next event: Customer 220 Arrival
 438. Next event: Customer 218 Departure
 
 ---------No. of customers delayed: 219--------
@@ -1173,18 +1173,18 @@
 ---------No. of customers delayed: 235--------
 
 470. Next event: Customer 236 Arrival
-471. Next event: Customer 236 Arrival
+471. Next event: Customer 237 Arrival
 472. Next event: Customer 235 Departure
 
 ---------No. of customers delayed: 236--------
 
-473. Next event: Customer 237 Arrival
+473. Next event: Customer 238 Arrival
 474. Next event: Customer 236 Departure
 
 ---------No. of customers delayed: 237--------
 
-475. Next event: Customer 238 Arrival
-476. Next event: Customer 238 Arrival
+475. Next event: Customer 239 Arrival
+476. Next event: Customer 240 Arrival
 477. Next event: Customer 237 Departure
 
 ---------No. of customers delayed: 238--------
@@ -1193,7 +1193,7 @@
 
 ---------No. of customers delayed: 239--------
 
-479. Next event: Customer 240 Arrival
+479. Next event: Customer 241 Arrival
 480. Next event: Customer 239 Departure
 
 ---------No. of customers delayed: 240--------
@@ -1208,7 +1208,7 @@
 ---------No. of customers delayed: 242--------
 
 484. Next event: Customer 243 Arrival
-485. Next event: Customer 243 Arrival
+485. Next event: Customer 244 Arrival
 486. Next event: Customer 242 Departure
 
 ---------No. of customers delayed: 243--------
@@ -1218,7 +1218,7 @@
 ---------No. of customers delayed: 244--------
 
 488. Next event: Customer 245 Arrival
-489. Next event: Customer 245 Arrival
+489. Next event: Customer 246 Arrival
 490. Next event: Customer 244 Departure
 
 ---------No. of customers delayed: 245--------
@@ -1268,7 +1268,7 @@
 ---------No. of customers delayed: 254--------
 
 508. Next event: Customer 255 Arrival
-509. Next event: Customer 255 Arrival
+509. Next event: Customer 256 Arrival
 510. Next event: Customer 254 Departure
 
 ---------No. of customers delayed: 255--------
@@ -1343,12 +1343,12 @@
 ---------No. of customers delayed: 269--------
 
 538. Next event: Customer 270 Arrival
-539. Next event: Customer 270 Arrival
+539. Next event: Customer 271 Arrival
 540. Next event: Customer 269 Departure
 
 ---------No. of customers delayed: 270--------
 
-541. Next event: Customer 271 Arrival
+541. Next event: Customer 272 Arrival
 542. Next event: Customer 270 Departure
 
 ---------No. of customers delayed: 271--------
@@ -1363,17 +1363,17 @@
 ---------No. of customers delayed: 273--------
 
 546. Next event: Customer 274 Arrival
-547. Next event: Customer 274 Arrival
+547. Next event: Customer 275 Arrival
 548. Next event: Customer 273 Departure
 
 ---------No. of customers delayed: 274--------
 
-549. Next event: Customer 275 Arrival
+549. Next event: Customer 276 Arrival
 550. Next event: Customer 274 Departure
 
 ---------No. of customers delayed: 275--------
 
-551. Next event: Customer 276 Arrival
+551. Next event: Customer 277 Arrival
 552. Next event: Customer 275 Departure
 
 ---------No. of customers delayed: 276--------
@@ -1393,12 +1393,12 @@
 ---------No. of customers delayed: 279--------
 
 558. Next event: Customer 280 Arrival
-559. Next event: Customer 280 Arrival
+559. Next event: Customer 281 Arrival
 560. Next event: Customer 279 Departure
 
 ---------No. of customers delayed: 280--------
 
-561. Next event: Customer 281 Arrival
+561. Next event: Customer 282 Arrival
 562. Next event: Customer 280 Departure
 
 ---------No. of customers delayed: 281--------
@@ -1473,7 +1473,7 @@
 ---------No. of customers delayed: 295--------
 
 590. Next event: Customer 296 Arrival
-591. Next event: Customer 296 Arrival
+591. Next event: Customer 297 Arrival
 592. Next event: Customer 295 Departure
 
 ---------No. of customers delayed: 296--------
@@ -1523,12 +1523,12 @@
 ---------No. of customers delayed: 305--------
 
 610. Next event: Customer 306 Arrival
-611. Next event: Customer 306 Arrival
+611. Next event: Customer 307 Arrival
 612. Next event: Customer 305 Departure
 
 ---------No. of customers delayed: 306--------
 
-613. Next event: Customer 307 Arrival
+613. Next event: Customer 308 Arrival
 614. Next event: Customer 306 Departure
 
 ---------No. of customers delayed: 307--------
@@ -1548,7 +1548,7 @@
 ---------No. of customers delayed: 310--------
 
 620. Next event: Customer 311 Arrival
-621. Next event: Customer 311 Arrival
+621. Next event: Customer 312 Arrival
 622. Next event: Customer 310 Departure
 
 ---------No. of customers delayed: 311--------
@@ -1558,12 +1558,12 @@
 ---------No. of customers delayed: 312--------
 
 624. Next event: Customer 313 Arrival
-625. Next event: Customer 313 Arrival
+625. Next event: Customer 314 Arrival
 626. Next event: Customer 312 Departure
 
 ---------No. of customers delayed: 313--------
 
-627. Next event: Customer 314 Arrival
+627. Next event: Customer 315 Arrival
 628. Next event: Customer 313 Departure
 
 ---------No. of customers delayed: 314--------
@@ -1663,8 +1663,8 @@
 ---------No. of customers delayed: 333--------
 
 666. Next event: Customer 334 Arrival
-667. Next event: Customer 334 Arrival
-668. Next event: Customer 334 Arrival
+667. Next event: Customer 335 Arrival
+668. Next event: Customer 336 Arrival
 669. Next event: Customer 333 Departure
 
 ---------No. of customers delayed: 334--------
@@ -1683,13 +1683,13 @@
 ---------No. of customers delayed: 337--------
 
 674. Next event: Customer 338 Arrival
-675. Next event: Customer 338 Arrival
-676. Next event: Customer 338 Arrival
+675. Next event: Customer 339 Arrival
+676. Next event: Customer 340 Arrival
 677. Next event: Customer 337 Departure
 
 ---------No. of customers delayed: 338--------
 
-678. Next event: Customer 339 Arrival
+678. Next event: Customer 341 Arrival
 679. Next event: Customer 338 Departure
 
 ---------No. of customers delayed: 339--------
@@ -1748,12 +1748,12 @@
 ---------No. of customers delayed: 350--------
 
 700. Next event: Customer 351 Arrival
-701. Next event: Customer 351 Arrival
+701. Next event: Customer 352 Arrival
 702. Next event: Customer 350 Departure
 
 ---------No. of customers delayed: 351--------
 
-703. Next event: Customer 352 Arrival
+703. Next event: Customer 353 Arrival
 704. Next event: Customer 351 Departure
 
 ---------No. of customers delayed: 352--------
@@ -1788,17 +1788,17 @@
 ---------No. of customers delayed: 358--------
 
 716. Next event: Customer 359 Arrival
-717. Next event: Customer 359 Arrival
+717. Next event: Customer 360 Arrival
 718. Next event: Customer 358 Departure
 
 ---------No. of customers delayed: 359--------
 
-719. Next event: Customer 360 Arrival
+719. Next event: Customer 361 Arrival
 720. Next event: Customer 359 Departure
 
 ---------No. of customers delayed: 360--------
 
-721. Next event: Customer 361 Arrival
+721. Next event: Customer 362 Arrival
 722. Next event: Customer 360 Departure
 
 ---------No. of customers delayed: 361--------
@@ -1818,12 +1818,12 @@
 ---------No. of customers delayed: 364--------
 
 728. Next event: Customer 365 Arrival
-729. Next event: Customer 365 Arrival
+729. Next event: Customer 366 Arrival
 730. Next event: Customer 364 Departure
 
 ---------No. of customers delayed: 365--------
 
-731. Next event: Customer 366 Arrival
+731. Next event: Customer 367 Arrival
 732. Next event: Customer 365 Departure
 
 ---------No. of customers delayed: 366--------
@@ -1848,14 +1848,14 @@
 ---------No. of customers delayed: 370--------
 
 740. Next event: Customer 371 Arrival
-741. Next event: Customer 371 Arrival
-742. Next event: Customer 371 Arrival
+741. Next event: Customer 372 Arrival
+742. Next event: Customer 373 Arrival
 743. Next event: Customer 370 Departure
 
 ---------No. of customers delayed: 371--------
 
-744. Next event: Customer 372 Arrival
-745. Next event: Customer 372 Arrival
+744. Next event: Customer 374 Arrival
+745. Next event: Customer 375 Arrival
 746. Next event: Customer 371 Departure
 
 ---------No. of customers delayed: 372--------
@@ -1864,10 +1864,10 @@
 
 ---------No. of customers delayed: 373--------
 
-748. Next event: Customer 374 Arrival
-749. Next event: Customer 374 Arrival
-750. Next event: Customer 374 Arrival
-751. Next event: Customer 374 Arrival
+748. Next event: Customer 376 Arrival
+749. Next event: Customer 377 Arrival
+750. Next event: Customer 378 Arrival
+751. Next event: Customer 379 Arrival
 752. Next event: Customer 373 Departure
 
 ---------No. of customers delayed: 374--------
@@ -1884,7 +1884,7 @@
 
 ---------No. of customers delayed: 377--------
 
-756. Next event: Customer 378 Arrival
+756. Next event: Customer 380 Arrival
 757. Next event: Customer 377 Departure
 
 ---------No. of customers delayed: 378--------
@@ -1898,7 +1898,7 @@
 ---------No. of customers delayed: 380--------
 
 760. Next event: Customer 381 Arrival
-761. Next event: Customer 381 Arrival
+761. Next event: Customer 382 Arrival
 762. Next event: Customer 380 Departure
 
 ---------No. of customers delayed: 381--------
@@ -1938,7 +1938,7 @@
 ---------No. of customers delayed: 388--------
 
 776. Next event: Customer 389 Arrival
-777. Next event: Customer 389 Arrival
+777. Next event: Customer 390 Arrival
 778. Next event: Customer 388 Departure
 
 ---------No. of customers delayed: 389--------
@@ -2083,9 +2083,9 @@
 ---------No. of customers delayed: 417--------
 
 834. Next event: Customer 418 Arrival
-835. Next event: Customer 418 Arrival
-836. Next event: Customer 418 Arrival
-837. Next event: Customer 418 Arrival
+835. Next event: Customer 419 Arrival
+836. Next event: Customer 420 Arrival
+837. Next event: Customer 421 Arrival
 838. Next event: Customer 417 Departure
 
 ---------No. of customers delayed: 418--------
@@ -2108,8 +2108,8 @@
 ---------No. of customers delayed: 422--------
 
 844. Next event: Customer 423 Arrival
-845. Next event: Customer 423 Arrival
-846. Next event: Customer 423 Arrival
+845. Next event: Customer 424 Arrival
+846. Next event: Customer 425 Arrival
 847. Next event: Customer 422 Departure
 
 ---------No. of customers delayed: 423--------
@@ -2133,8 +2133,8 @@
 ---------No. of customers delayed: 427--------
 
 854. Next event: Customer 428 Arrival
-855. Next event: Customer 428 Arrival
-856. Next event: Customer 428 Arrival
+855. Next event: Customer 429 Arrival
+856. Next event: Customer 430 Arrival
 857. Next event: Customer 427 Departure
 
 ---------No. of customers delayed: 428--------
@@ -2188,7 +2188,7 @@
 ---------No. of customers delayed: 438--------
 
 876. Next event: Customer 439 Arrival
-877. Next event: Customer 439 Arrival
+877. Next event: Customer 440 Arrival
 878. Next event: Customer 438 Departure
 
 ---------No. of customers delayed: 439--------
@@ -2213,7 +2213,7 @@
 ---------No. of customers delayed: 443--------
 
 886. Next event: Customer 444 Arrival
-887. Next event: Customer 444 Arrival
+887. Next event: Customer 445 Arrival
 888. Next event: Customer 443 Departure
 
 ---------No. of customers delayed: 444--------
@@ -2293,7 +2293,7 @@
 ---------No. of customers delayed: 459--------
 
 918. Next event: Customer 460 Arrival
-919. Next event: Customer 460 Arrival
+919. Next event: Customer 461 Arrival
 920. Next event: Customer 459 Departure
 
 ---------No. of customers delayed: 460--------
@@ -2323,23 +2323,23 @@
 ---------No. of customers delayed: 465--------
 
 930. Next event: Customer 466 Arrival
-931. Next event: Customer 466 Arrival
+931. Next event: Customer 467 Arrival
 932. Next event: Customer 465 Departure
 
 ---------No. of customers delayed: 466--------
 
-933. Next event: Customer 467 Arrival
-934. Next event: Customer 467 Arrival
+933. Next event: Customer 468 Arrival
+934. Next event: Customer 469 Arrival
 935. Next event: Customer 466 Departure
 
 ---------No. of customers delayed: 467--------
 
-936. Next event: Customer 468 Arrival
+936. Next event: Customer 470 Arrival
 937. Next event: Customer 467 Departure
 
 ---------No. of customers delayed: 468--------
 
-938. Next event: Customer 469 Arrival
+938. Next event: Customer 471 Arrival
 939. Next event: Customer 468 Departure
 
 ---------No. of customers delayed: 469--------
@@ -2428,10 +2428,10 @@
 ---------No. of customers delayed: 486--------
 
 972. Next event: Customer 487 Arrival
-973. Next event: Customer 487 Arrival
-974. Next event: Customer 487 Arrival
-975. Next event: Customer 487 Arrival
-976. Next event: Customer 487 Arrival
+973. Next event: Customer 488 Arrival
+974. Next event: Customer 489 Arrival
+975. Next event: Customer 490 Arrival
+976. Next event: Customer 491 Arrival
 977. Next event: Customer 486 Departure
 
 ---------No. of customers delayed: 487--------
@@ -2444,7 +2444,7 @@
 
 ---------No. of customers delayed: 489--------
 
-980. Next event: Customer 490 Arrival
+980. Next event: Customer 492 Arrival
 981. Next event: Customer 489 Departure
 
 ---------No. of customers delayed: 490--------
@@ -2453,7 +2453,7 @@
 
 ---------No. of customers delayed: 491--------
 
-983. Next event: Customer 492 Arrival
+983. Next event: Customer 493 Arrival
 984. Next event: Customer 491 Departure
 
 ---------No. of customers delayed: 492--------
@@ -2618,36 +2618,36 @@
 ---------No. of customers delayed: 524--------
 
 1048. Next event: Customer 525 Arrival
-1049. Next event: Customer 525 Arrival
+1049. Next event: Customer 526 Arrival
 1050. Next event: Customer 524 Departure
 
 ---------No. of customers delayed: 525--------
 
-1051. Next event: Customer 526 Arrival
-1052. Next event: Customer 526 Arrival
-1053. Next event: Customer 526 Arrival
-1054. Next event: Customer 526 Arrival
-1055. Next event: Customer 526 Arrival
-1056. Next event: Customer 526 Arrival
+1051. Next event: Customer 527 Arrival
+1052. Next event: Customer 528 Arrival
+1053. Next event: Customer 529 Arrival
+1054. Next event: Customer 530 Arrival
+1055. Next event: Customer 531 Arrival
+1056. Next event: Customer 532 Arrival
 1057. Next event: Customer 525 Departure
 
 ---------No. of customers delayed: 526--------
 
-1058. Next event: Customer 527 Arrival
+1058. Next event: Customer 533 Arrival
 1059. Next event: Customer 526 Departure
 
 ---------No. of customers delayed: 527--------
 
-1060. Next event: Customer 528 Arrival
-1061. Next event: Customer 528 Arrival
-1062. Next event: Customer 528 Arrival
-1063. Next event: Customer 528 Arrival
-1064. Next event: Customer 528 Arrival
+1060. Next event: Customer 534 Arrival
+1061. Next event: Customer 535 Arrival
+1062. Next event: Customer 536 Arrival
+1063. Next event: Customer 537 Arrival
+1064. Next event: Customer 538 Arrival
 1065. Next event: Customer 527 Departure
 
 ---------No. of customers delayed: 528--------
 
-1066. Next event: Customer 529 Arrival
+1066. Next event: Customer 539 Arrival
 1067. Next event: Customer 528 Departure
 
 ---------No. of customers delayed: 529--------
@@ -2708,12 +2708,12 @@
 ---------No. of customers delayed: 542--------
 
 1084. Next event: Customer 543 Arrival
-1085. Next event: Customer 543 Arrival
+1085. Next event: Customer 544 Arrival
 1086. Next event: Customer 542 Departure
 
 ---------No. of customers delayed: 543--------
 
-1087. Next event: Customer 544 Arrival
+1087. Next event: Customer 545 Arrival
 1088. Next event: Customer 543 Departure
 
 ---------No. of customers delayed: 544--------
@@ -2753,7 +2753,7 @@
 ---------No. of customers delayed: 551--------
 
 1102. Next event: Customer 552 Arrival
-1103. Next event: Customer 552 Arrival
+1103. Next event: Customer 553 Arrival
 1104. Next event: Customer 551 Departure
 
 ---------No. of customers delayed: 552--------
@@ -2778,7 +2778,7 @@
 ---------No. of customers delayed: 556--------
 
 1112. Next event: Customer 557 Arrival
-1113. Next event: Customer 557 Arrival
+1113. Next event: Customer 558 Arrival
 1114. Next event: Customer 556 Departure
 
 ---------No. of customers delayed: 557--------
@@ -2803,12 +2803,12 @@
 ---------No. of customers delayed: 561--------
 
 1122. Next event: Customer 562 Arrival
-1123. Next event: Customer 562 Arrival
+1123. Next event: Customer 563 Arrival
 1124. Next event: Customer 561 Departure
 
 ---------No. of customers delayed: 562--------
 
-1125. Next event: Customer 563 Arrival
+1125. Next event: Customer 564 Arrival
 1126. Next event: Customer 562 Departure
 
 ---------No. of customers delayed: 563--------
@@ -2843,7 +2843,7 @@
 ---------No. of customers delayed: 569--------
 
 1138. Next event: Customer 570 Arrival
-1139. Next event: Customer 570 Arrival
+1139. Next event: Customer 571 Arrival
 1140. Next event: Customer 569 Departure
 
 ---------No. of customers delayed: 570--------
@@ -2853,14 +2853,14 @@
 ---------No. of customers delayed: 571--------
 
 1142. Next event: Customer 572 Arrival
-1143. Next event: Customer 572 Arrival
+1143. Next event: Customer 573 Arrival
 1144. Next event: Customer 571 Departure
 
 ---------No. of customers delayed: 572--------
 
-1145. Next event: Customer 573 Arrival
-1146. Next event: Customer 573 Arrival
-1147. Next event: Customer 573 Arrival
+1145. Next event: Customer 574 Arrival
+1146. Next event: Customer 575 Arrival
+1147. Next event: Customer 576 Arrival
 1148. Next event: Customer 572 Departure
 
 ---------No. of customers delayed: 573--------
@@ -2869,17 +2869,17 @@
 
 ---------No. of customers delayed: 574--------
 
-1150. Next event: Customer 575 Arrival
+1150. Next event: Customer 577 Arrival
 1151. Next event: Customer 574 Departure
 
 ---------No. of customers delayed: 575--------
 
-1152. Next event: Customer 576 Arrival
+1152. Next event: Customer 578 Arrival
 1153. Next event: Customer 575 Departure
 
 ---------No. of customers delayed: 576--------
 
-1154. Next event: Customer 577 Arrival
+1154. Next event: Customer 579 Arrival
 1155. Next event: Customer 576 Departure
 
 ---------No. of customers delayed: 577--------
@@ -2963,7 +2963,7 @@
 ---------No. of customers delayed: 593--------
 
 1186. Next event: Customer 594 Arrival
-1187. Next event: Customer 594 Arrival
+1187. Next event: Customer 595 Arrival
 1188. Next event: Customer 593 Departure
 
 ---------No. of customers delayed: 594--------
@@ -2988,17 +2988,17 @@
 ---------No. of customers delayed: 598--------
 
 1196. Next event: Customer 599 Arrival
-1197. Next event: Customer 599 Arrival
+1197. Next event: Customer 600 Arrival
 1198. Next event: Customer 598 Departure
 
 ---------No. of customers delayed: 599--------
 
-1199. Next event: Customer 600 Arrival
+1199. Next event: Customer 601 Arrival
 1200. Next event: Customer 599 Departure
 
 ---------No. of customers delayed: 600--------
 
-1201. Next event: Customer 601 Arrival
+1201. Next event: Customer 602 Arrival
 1202. Next event: Customer 600 Departure
 
 ---------No. of customers delayed: 601--------
@@ -3063,7 +3063,7 @@
 ---------No. of customers delayed: 613--------
 
 1226. Next event: Customer 614 Arrival
-1227. Next event: Customer 614 Arrival
+1227. Next event: Customer 615 Arrival
 1228. Next event: Customer 613 Departure
 
 ---------No. of customers delayed: 614--------
@@ -3123,7 +3123,7 @@
 ---------No. of customers delayed: 625--------
 
 1250. Next event: Customer 626 Arrival
-1251. Next event: Customer 626 Arrival
+1251. Next event: Customer 627 Arrival
 1252. Next event: Customer 625 Departure
 
 ---------No. of customers delayed: 626--------
@@ -3198,23 +3198,23 @@
 ---------No. of customers delayed: 640--------
 
 1280. Next event: Customer 641 Arrival
-1281. Next event: Customer 641 Arrival
-1282. Next event: Customer 641 Arrival
+1281. Next event: Customer 642 Arrival
+1282. Next event: Customer 643 Arrival
 1283. Next event: Customer 640 Departure
 
 ---------No. of customers delayed: 641--------
 
-1284. Next event: Customer 642 Arrival
+1284. Next event: Customer 644 Arrival
 1285. Next event: Customer 641 Departure
 
 ---------No. of customers delayed: 642--------
 
-1286. Next event: Customer 643 Arrival
+1286. Next event: Customer 645 Arrival
 1287. Next event: Customer 642 Departure
 
 ---------No. of customers delayed: 643--------
 
-1288. Next event: Customer 644 Arrival
+1288. Next event: Customer 646 Arrival
 1289. Next event: Customer 643 Departure
 
 ---------No. of customers delayed: 644--------
@@ -3223,12 +3223,12 @@
 
 ---------No. of customers delayed: 645--------
 
-1291. Next event: Customer 646 Arrival
+1291. Next event: Customer 647 Arrival
 1292. Next event: Customer 645 Departure
 
 ---------No. of customers delayed: 646--------
 
-1293. Next event: Customer 647 Arrival
+1293. Next event: Customer 648 Arrival
 1294. Next event: Customer 646 Departure
 
 ---------No. of customers delayed: 647--------
@@ -3258,11 +3258,11 @@
 ---------No. of customers delayed: 652--------
 
 1304. Next event: Customer 653 Arrival
-1305. Next event: Customer 653 Arrival
-1306. Next event: Customer 653 Arrival
-1307. Next event: Customer 653 Arrival
-1308. Next event: Customer 653 Arrival
-1309. Next event: Customer 653 Arrival
+1305. Next event: Customer 654 Arrival
+1306. Next event: Customer 655 Arrival
+1307. Next event: Customer 656 Arrival
+1308. Next event: Customer 657 Arrival
+1309. Next event: Customer 658 Arrival
 1310. Next event: Customer 652 Departure
 
 ---------No. of customers delayed: 653--------
@@ -3288,18 +3288,18 @@
 ---------No. of customers delayed: 658--------
 
 1316. Next event: Customer 659 Arrival
-1317. Next event: Customer 659 Arrival
+1317. Next event: Customer 660 Arrival
 1318. Next event: Customer 658 Departure
 
 ---------No. of customers delayed: 659--------
 
-1319. Next event: Customer 660 Arrival
-1320. Next event: Customer 660 Arrival
+1319. Next event: Customer 661 Arrival
+1320. Next event: Customer 662 Arrival
 1321. Next event: Customer 659 Departure
 
 ---------No. of customers delayed: 660--------
 
-1322. Next event: Customer 661 Arrival
+1322. Next event: Customer 663 Arrival
 1323. Next event: Customer 660 Departure
 
 ---------No. of customers delayed: 661--------
@@ -3308,7 +3308,7 @@
 
 ---------No. of customers delayed: 662--------
 
-1325. Next event: Customer 663 Arrival
+1325. Next event: Customer 664 Arrival
 1326. Next event: Customer 662 Departure
 
 ---------No. of customers delayed: 663--------
@@ -3318,7 +3318,7 @@
 ---------No. of customers delayed: 664--------
 
 1328. Next event: Customer 665 Arrival
-1329. Next event: Customer 665 Arrival
+1329. Next event: Customer 666 Arrival
 1330. Next event: Customer 664 Departure
 
 ---------No. of customers delayed: 665--------
@@ -3358,7 +3358,7 @@
 ---------No. of customers delayed: 672--------
 
 1344. Next event: Customer 673 Arrival
-1345. Next event: Customer 673 Arrival
+1345. Next event: Customer 674 Arrival
 1346. Next event: Customer 672 Departure
 
 ---------No. of customers delayed: 673--------
@@ -3508,7 +3508,7 @@
 ---------No. of customers delayed: 702--------
 
 1404. Next event: Customer 703 Arrival
-1405. Next event: Customer 703 Arrival
+1405. Next event: Customer 704 Arrival
 1406. Next event: Customer 702 Departure
 
 ---------No. of customers delayed: 703--------
@@ -3518,9 +3518,9 @@
 ---------No. of customers delayed: 704--------
 
 1408. Next event: Customer 705 Arrival
-1409. Next event: Customer 705 Arrival
-1410. Next event: Customer 705 Arrival
-1411. Next event: Customer 705 Arrival
+1409. Next event: Customer 706 Arrival
+1410. Next event: Customer 707 Arrival
+1411. Next event: Customer 708 Arrival
 1412. Next event: Customer 704 Departure
 
 ---------No. of customers delayed: 705--------
@@ -3533,14 +3533,14 @@
 
 ---------No. of customers delayed: 707--------
 
-1415. Next event: Customer 708 Arrival
-1416. Next event: Customer 708 Arrival
-1417. Next event: Customer 708 Arrival
+1415. Next event: Customer 709 Arrival
+1416. Next event: Customer 710 Arrival
+1417. Next event: Customer 711 Arrival
 1418. Next event: Customer 707 Departure
 
 ---------No. of customers delayed: 708--------
 
-1419. Next event: Customer 709 Arrival
+1419. Next event: Customer 712 Arrival
 1420. Next event: Customer 708 Departure
 
 ---------No. of customers delayed: 709--------
@@ -3549,13 +3549,13 @@
 
 ---------No. of customers delayed: 710--------
 
-1422. Next event: Customer 711 Arrival
+1422. Next event: Customer 713 Arrival
 1423. Next event: Customer 710 Departure
 
 ---------No. of customers delayed: 711--------
 
-1424. Next event: Customer 712 Arrival
-1425. Next event: Customer 712 Arrival
+1424. Next event: Customer 714 Arrival
+1425. Next event: Customer 715 Arrival
 1426. Next event: Customer 711 Departure
 
 ---------No. of customers delayed: 712--------
@@ -3573,7 +3573,7 @@
 ---------No. of customers delayed: 715--------
 
 1430. Next event: Customer 716 Arrival
-1431. Next event: Customer 716 Arrival
+1431. Next event: Customer 717 Arrival
 1432. Next event: Customer 715 Departure
 
 ---------No. of customers delayed: 716--------
@@ -3593,13 +3593,13 @@
 ---------No. of customers delayed: 719--------
 
 1438. Next event: Customer 720 Arrival
-1439. Next event: Customer 720 Arrival
+1439. Next event: Customer 721 Arrival
 1440. Next event: Customer 719 Departure
 
 ---------No. of customers delayed: 720--------
 
-1441. Next event: Customer 721 Arrival
-1442. Next event: Customer 721 Arrival
+1441. Next event: Customer 722 Arrival
+1442. Next event: Customer 723 Arrival
 1443. Next event: Customer 720 Departure
 
 ---------No. of customers delayed: 721--------
@@ -3608,8 +3608,8 @@
 
 ---------No. of customers delayed: 722--------
 
-1445. Next event: Customer 723 Arrival
-1446. Next event: Customer 723 Arrival
+1445. Next event: Customer 724 Arrival
+1446. Next event: Customer 725 Arrival
 1447. Next event: Customer 722 Departure
 
 ---------No. of customers delayed: 723--------
@@ -3618,22 +3618,22 @@
 
 ---------No. of customers delayed: 724--------
 
-1449. Next event: Customer 725 Arrival
+1449. Next event: Customer 726 Arrival
 1450. Next event: Customer 724 Departure
 
 ---------No. of customers delayed: 725--------
 
-1451. Next event: Customer 726 Arrival
+1451. Next event: Customer 727 Arrival
 1452. Next event: Customer 725 Departure
 
 ---------No. of customers delayed: 726--------
 
-1453. Next event: Customer 727 Arrival
+1453. Next event: Customer 728 Arrival
 1454. Next event: Customer 726 Departure
 
 ---------No. of customers delayed: 727--------
 
-1455. Next event: Customer 728 Arrival
+1455. Next event: Customer 729 Arrival
 1456. Next event: Customer 727 Departure
 
 ---------No. of customers delayed: 728--------
@@ -3668,13 +3668,13 @@
 ---------No. of customers delayed: 734--------
 
 1468. Next event: Customer 735 Arrival
-1469. Next event: Customer 735 Arrival
+1469. Next event: Customer 736 Arrival
 1470. Next event: Customer 734 Departure
 
 ---------No. of customers delayed: 735--------
 
-1471. Next event: Customer 736 Arrival
-1472. Next event: Customer 736 Arrival
+1471. Next event: Customer 737 Arrival
+1472. Next event: Customer 738 Arrival
 1473. Next event: Customer 735 Departure
 
 ---------No. of customers delayed: 736--------
@@ -3703,7 +3703,7 @@
 ---------No. of customers delayed: 741--------
 
 1482. Next event: Customer 742 Arrival
-1483. Next event: Customer 742 Arrival
+1483. Next event: Customer 743 Arrival
 1484. Next event: Customer 741 Departure
 
 ---------No. of customers delayed: 742--------
@@ -3963,8 +3963,8 @@
 ---------No. of customers delayed: 793--------
 
 1586. Next event: Customer 794 Arrival
-1587. Next event: Customer 794 Arrival
-1588. Next event: Customer 794 Arrival
+1587. Next event: Customer 795 Arrival
+1588. Next event: Customer 796 Arrival
 1589. Next event: Customer 793 Departure
 
 ---------No. of customers delayed: 794--------
@@ -4033,13 +4033,13 @@
 ---------No. of customers delayed: 807--------
 
 1614. Next event: Customer 808 Arrival
-1615. Next event: Customer 808 Arrival
+1615. Next event: Customer 809 Arrival
 1616. Next event: Customer 807 Departure
 
 ---------No. of customers delayed: 808--------
 
-1617. Next event: Customer 809 Arrival
-1618. Next event: Customer 809 Arrival
+1617. Next event: Customer 810 Arrival
+1618. Next event: Customer 811 Arrival
 1619. Next event: Customer 808 Departure
 
 ---------No. of customers delayed: 809--------
@@ -4138,7 +4138,7 @@
 ---------No. of customers delayed: 828--------
 
 1656. Next event: Customer 829 Arrival
-1657. Next event: Customer 829 Arrival
+1657. Next event: Customer 830 Arrival
 1658. Next event: Customer 828 Departure
 
 ---------No. of customers delayed: 829--------
@@ -4153,12 +4153,12 @@
 ---------No. of customers delayed: 831--------
 
 1662. Next event: Customer 832 Arrival
-1663. Next event: Customer 832 Arrival
+1663. Next event: Customer 833 Arrival
 1664. Next event: Customer 831 Departure
 
 ---------No. of customers delayed: 832--------
 
-1665. Next event: Customer 833 Arrival
+1665. Next event: Customer 834 Arrival
 1666. Next event: Customer 832 Departure
 
 ---------No. of customers delayed: 833--------
@@ -4258,7 +4258,7 @@
 ---------No. of customers delayed: 852--------
 
 1704. Next event: Customer 853 Arrival
-1705. Next event: Customer 853 Arrival
+1705. Next event: Customer 854 Arrival
 1706. Next event: Customer 852 Departure
 
 ---------No. of customers delayed: 853--------
@@ -4303,8 +4303,8 @@
 ---------No. of customers delayed: 861--------
 
 1722. Next event: Customer 862 Arrival
-1723. Next event: Customer 862 Arrival
-1724. Next event: Customer 862 Arrival
+1723. Next event: Customer 863 Arrival
+1724. Next event: Customer 864 Arrival
 1725. Next event: Customer 861 Departure
 
 ---------No. of customers delayed: 862--------
@@ -4313,7 +4313,7 @@
 
 ---------No. of customers delayed: 863--------
 
-1727. Next event: Customer 864 Arrival
+1727. Next event: Customer 865 Arrival
 1728. Next event: Customer 863 Departure
 
 ---------No. of customers delayed: 864--------
@@ -4463,19 +4463,19 @@
 ---------No. of customers delayed: 893--------
 
 1786. Next event: Customer 894 Arrival
-1787. Next event: Customer 894 Arrival
+1787. Next event: Customer 895 Arrival
 1788. Next event: Customer 893 Departure
 
 ---------No. of customers delayed: 894--------
 
-1789. Next event: Customer 895 Arrival
-1790. Next event: Customer 895 Arrival
-1791. Next event: Customer 895 Arrival
-1792. Next event: Customer 895 Arrival
-1793. Next event: Customer 895 Arrival
-1794. Next event: Customer 895 Arrival
-1795. Next event: Customer 895 Arrival
-1796. Next event: Customer 895 Arrival
+1789. Next event: Customer 896 Arrival
+1790. Next event: Customer 897 Arrival
+1791. Next event: Customer 898 Arrival
+1792. Next event: Customer 899 Arrival
+1793. Next event: Customer 900 Arrival
+1794. Next event: Customer 901 Arrival
+1795. Next event: Customer 902 Arrival
+1796. Next event: Customer 903 Arrival
 1797. Next event: Customer 894 Departure
 
 ---------No. of customers delayed: 895--------
@@ -4504,7 +4504,7 @@
 
 ---------No. of customers delayed: 901--------
 
-1804. Next event: Customer 902 Arrival
+1804. Next event: Customer 904 Arrival
 1805. Next event: Customer 901 Departure
 
 ---------No. of customers delayed: 902--------
@@ -4518,7 +4518,7 @@
 ---------No. of customers delayed: 904--------
 
 1808. Next event: Customer 905 Arrival
-1809. Next event: Customer 905 Arrival
+1809. Next event: Customer 906 Arrival
 1810. Next event: Customer 904 Departure
 
 ---------No. of customers delayed: 905--------
@@ -4568,19 +4568,19 @@
 ---------No. of customers delayed: 914--------
 
 1828. Next event: Customer 915 Arrival
-1829. Next event: Customer 915 Arrival
-1830. Next event: Customer 915 Arrival
+1829. Next event: Customer 916 Arrival
+1830. Next event: Customer 917 Arrival
 1831. Next event: Customer 914 Departure
 
 ---------No. of customers delayed: 915--------
 
-1832. Next event: Customer 916 Arrival
-1833. Next event: Customer 916 Arrival
+1832. Next event: Customer 918 Arrival
+1833. Next event: Customer 919 Arrival
 1834. Next event: Customer 915 Departure
 
 ---------No. of customers delayed: 916--------
 
-1835. Next event: Customer 917 Arrival
+1835. Next event: Customer 920 Arrival
 1836. Next event: Customer 916 Departure
 
 ---------No. of customers delayed: 917--------
@@ -4618,7 +4618,7 @@
 ---------No. of customers delayed: 924--------
 
 1848. Next event: Customer 925 Arrival
-1849. Next event: Customer 925 Arrival
+1849. Next event: Customer 926 Arrival
 1850. Next event: Customer 924 Departure
 
 ---------No. of customers delayed: 925--------
@@ -4753,8 +4753,8 @@
 ---------No. of customers delayed: 951--------
 
 1902. Next event: Customer 952 Arrival
-1903. Next event: Customer 952 Arrival
-1904. Next event: Customer 952 Arrival
+1903. Next event: Customer 953 Arrival
+1904. Next event: Customer 954 Arrival
 1905. Next event: Customer 951 Departure
 
 ---------No. of customers delayed: 952--------
@@ -4888,7 +4888,7 @@
 ---------No. of customers delayed: 978--------
 
 1956. Next event: Customer 979 Arrival
-1957. Next event: Customer 979 Arrival
+1957. Next event: Customer 980 Arrival
 1958. Next event: Customer 978 Departure
 
 ---------No. of customers delayed: 979--------
@@ -4898,8 +4898,8 @@
 ---------No. of customers delayed: 980--------
 
 1960. Next event: Customer 981 Arrival
-1961. Next event: Customer 981 Arrival
-1962. Next event: Customer 981 Arrival
+1961. Next event: Customer 982 Arrival
+1962. Next event: Customer 983 Arrival
 1963. Next event: Customer 980 Departure
 
 ---------No. of customers delayed: 981--------
@@ -4908,8 +4908,8 @@
 
 ---------No. of customers delayed: 982--------
 
-1965. Next event: Customer 983 Arrival
-1966. Next event: Customer 983 Arrival
+1965. Next event: Customer 984 Arrival
+1966. Next event: Customer 985 Arrival
 1967. Next event: Customer 982 Departure
 
 ---------No. of customers delayed: 983--------
@@ -4938,7 +4938,7 @@
 ---------No. of customers delayed: 988--------
 
 1976. Next event: Customer 989 Arrival
-1977. Next event: Customer 989 Arrival
+1977. Next event: Customer 990 Arrival
 1978. Next event: Customer 988 Departure
 
 ---------No. of customers delayed: 989--------
@@ -4973,8 +4973,8 @@
 ---------No. of customers delayed: 995--------
 
 1990. Next event: Customer 996 Arrival
-1991. Next event: Customer 996 Arrival
-1992. Next event: Customer 996 Arrival
+1991. Next event: Customer 997 Arrival
+1992. Next event: Customer 998 Arrival
 1993. Next event: Customer 995 Departure
 
 ---------No. of customers delayed: 996--------

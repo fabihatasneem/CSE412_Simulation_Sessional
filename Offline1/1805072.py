@@ -65,6 +65,7 @@ time_last_event = 0.0
 time_next_event = [0.0] * 3
 total_of_delays = 0.0
 event_count = 0
+customer_count = 0
 
 # Initialize function
 def initialize():
@@ -99,10 +100,11 @@ def timing():
 
 # Arrival event function
 def arrive():
-    global simulation_time, server_status, num_in_q, total_of_delays, num_customers_delayed, event_count
+    global simulation_time, server_status, num_in_q, total_of_delays, num_customers_delayed, event_count, customer_count
     time_next_event[1] = simulation_time + expon(mean_interarrival)
     event_count += 1
-    eventfile.write(f"{event_count}. Next event: Customer {num_customers_delayed + 1} Arrival\n") 
+    customer_count += 1
+    eventfile.write(f"{event_count}. Next event: Customer {customer_count} Arrival\n") 
 
     if server_status == BUSY:
         num_in_q += 1
