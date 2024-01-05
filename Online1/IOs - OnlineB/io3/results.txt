@@ -1,0 +1,14 @@
+----Single-Server Queueing System----
+
+Mean inter-arrival time: 0.500000 minutes
+Mean service time: 5.500000 minutes
+Maximum Queue Length: 5
+
+Avg delay in queue: 26.889093 minutes
+Avg number in queue: 4.888176
+Server utilization: 0.999543
+Time simulation ended: 1000.000000 minutes
+
+Total number of Balking customers: 1840
+Total number of customers delayed: 180
+Percentage of Balking customers: 91.089109 %

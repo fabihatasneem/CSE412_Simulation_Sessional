@@ -1,0 +1,507 @@
+1. Next event: Customer 1 Arrival
+
+---------No. of customers delayed: 1--------
+
+2. Next event: Customer 1 Departure
+3. Next event: Customer 2 Arrival
+
+---------No. of customers delayed: 2--------
+
+4. Next event: Customer 2 Departure
+5. Next event: Customer 3 Arrival
+
+---------No. of customers delayed: 3--------
+
+6. Next event: Customer 3 Departure
+7. Next event: Customer 4 Arrival
+
+---------No. of customers delayed: 4--------
+
+8. Next event: Customer 5 Arrival
+9. Next event: Customer 6 Arrival
+10. Next event: Customer 4 Departure
+
+---------No. of customers delayed: 5--------
+
+11. Next event: Customer 5 Departure
+
+---------No. of customers delayed: 6--------
+
+12. Next event: Customer 7 Arrival
+13. Next event: Customer 8 Arrival
+14. Next event: Customer 9 Arrival
+15. Next event: Customer 10 Arrival
+16. Next event: Customer 6 Departure
+
+---------No. of customers delayed: 7--------
+
+17. Next event: Customer 11 Arrival
+18. Next event: Customer 7 Departure
+
+---------No. of customers delayed: 8--------
+
+19. Next event: Customer 12 Arrival
+20. Next event: Customer 13 Arrival
+21. Next event: Customer 8 Departure
+
+---------No. of customers delayed: 9--------
+
+22. Next event: Customer 14 Arrival
+23. Next event: Customer 15 Arrival
+24. Next event: Customer 16 Arrival
+25. Next event: Customer 17 Arrival
+26. Next event: Customer 18 Arrival
+27. Next event: Customer 9 Departure
+
+---------No. of customers delayed: 10--------
+
+28. Next event: Customer 19 Arrival
+29. Next event: Customer 20 Arrival
+30. Next event: Customer 10 Departure
+
+---------No. of customers delayed: 11--------
+
+31. Next event: Customer 21 Arrival
+32. Next event: Customer 22 Arrival
+33. Next event: Customer 23 Arrival
+34. Next event: Customer 24 Arrival
+35. Next event: Customer 25 Arrival
+36. Next event: Customer 26 Arrival
+37. Next event: Customer 11 Departure
+
+---------No. of customers delayed: 12--------
+
+38. Next event: Customer 27 Arrival
+39. Next event: Customer 28 Arrival
+40. Next event: Customer 12 Departure
+
+---------No. of customers delayed: 13--------
+
+41. Next event: Customer 29 Arrival
+42. Next event: Customer 13 Departure
+
+---------No. of customers delayed: 14--------
+
+43. Next event: Customer 30 Arrival
+44. Next event: Customer 31 Arrival
+45. Next event: Customer 32 Arrival
+46. Next event: Customer 33 Arrival
+47. Next event: Customer 14 Departure
+
+---------No. of customers delayed: 15--------
+
+48. Next event: Customer 34 Arrival
+49. Next event: Customer 35 Arrival
+50. Next event: Customer 36 Arrival
+51. Next event: Customer 37 Arrival
+52. Next event: Customer 15 Departure
+
+---------No. of customers delayed: 16--------
+
+53. Next event: Customer 16 Departure
+
+---------No. of customers delayed: 17--------
+
+54. Next event: Customer 38 Arrival
+55. Next event: Customer 39 Arrival
+56. Next event: Customer 17 Departure
+
+---------No. of customers delayed: 18--------
+
+57. Next event: Customer 18 Departure
+
+---------No. of customers delayed: 19--------
+
+58. Next event: Customer 19 Departure
+
+---------No. of customers delayed: 20--------
+
+59. Next event: Customer 20 Departure
+60. Next event: Customer 40 Arrival
+
+---------No. of customers delayed: 21--------
+
+61. Next event: Customer 41 Arrival
+62. Next event: Customer 42 Arrival
+63. Next event: Customer 43 Arrival
+64. Next event: Customer 44 Arrival
+65. Next event: Customer 21 Departure
+
+---------No. of customers delayed: 22--------
+
+66. Next event: Customer 45 Arrival
+67. Next event: Customer 46 Arrival
+68. Next event: Customer 47 Arrival
+69. Next event: Customer 22 Departure
+
+---------No. of customers delayed: 23--------
+
+70. Next event: Customer 48 Arrival
+71. Next event: Customer 49 Arrival
+72. Next event: Customer 50 Arrival
+73. Next event: Customer 51 Arrival
+74. Next event: Customer 52 Arrival
+75. Next event: Customer 53 Arrival
+76. Next event: Customer 54 Arrival
+77. Next event: Customer 23 Departure
+
+---------No. of customers delayed: 24--------
+
+78. Next event: Customer 55 Arrival
+79. Next event: Customer 24 Departure
+
+---------No. of customers delayed: 25--------
+
+80. Next event: Customer 25 Departure
+
+---------No. of customers delayed: 26--------
+
+81. Next event: Customer 26 Departure
+
+---------No. of customers delayed: 27--------
+
+82. Next event: Customer 56 Arrival
+83. Next event: Customer 57 Arrival
+84. Next event: Customer 27 Departure
+
+---------No. of customers delayed: 28--------
+
+85. Next event: Customer 28 Departure
+
+---------No. of customers delayed: 29--------
+
+86. Next event: Customer 58 Arrival
+87. Next event: Customer 59 Arrival
+88. Next event: Customer 29 Departure
+
+---------No. of customers delayed: 30--------
+
+89. Next event: Customer 30 Departure
+
+---------No. of customers delayed: 31--------
+
+90. Next event: Customer 60 Arrival
+91. Next event: Customer 31 Departure
+
+---------No. of customers delayed: 32--------
+
+92. Next event: Customer 61 Arrival
+93. Next event: Customer 62 Arrival
+94. Next event: Customer 63 Arrival
+95. Next event: Customer 64 Arrival
+96. Next event: Customer 65 Arrival
+97. Next event: Customer 66 Arrival
+98. Next event: Customer 32 Departure
+
+---------No. of customers delayed: 33--------
+
+99. Next event: Customer 33 Departure
+
+---------No. of customers delayed: 34--------
+
+100. Next event: Customer 67 Arrival
+101. Next event: Customer 68 Arrival
+102. Next event: Customer 69 Arrival
+103. Next event: Customer 70 Arrival
+104. Next event: Customer 71 Arrival
+105. Next event: Customer 72 Arrival
+106. Next event: Customer 73 Arrival
+107. Next event: Customer 74 Arrival
+108. Next event: Customer 75 Arrival
+109. Next event: Customer 34 Departure
+
+---------No. of customers delayed: 35--------
+
+110. Next event: Customer 35 Departure
+
+---------No. of customers delayed: 36--------
+
+111. Next event: Customer 36 Departure
+
+---------No. of customers delayed: 37--------
+
+112. Next event: Customer 76 Arrival
+113. Next event: Customer 77 Arrival
+114. Next event: Customer 78 Arrival
+115. Next event: Customer 79 Arrival
+116. Next event: Customer 37 Departure
+
+---------No. of customers delayed: 38--------
+
+117. Next event: Customer 80 Arrival
+118. Next event: Customer 81 Arrival
+119. Next event: Customer 82 Arrival
+120. Next event: Customer 38 Departure
+
+---------No. of customers delayed: 39--------
+
+121. Next event: Customer 83 Arrival
+122. Next event: Customer 84 Arrival
+123. Next event: Customer 85 Arrival
+124. Next event: Customer 86 Arrival
+125. Next event: Customer 39 Departure
+
+---------No. of customers delayed: 40--------
+
+126. Next event: Customer 40 Departure
+
+---------No. of customers delayed: 41--------
+
+127. Next event: Customer 41 Departure
+
+---------No. of customers delayed: 42--------
+
+128. Next event: Customer 87 Arrival
+129. Next event: Customer 88 Arrival
+130. Next event: Customer 42 Departure
+
+---------No. of customers delayed: 43--------
+
+131. Next event: Customer 89 Arrival
+132. Next event: Customer 90 Arrival
+133. Next event: Customer 91 Arrival
+134. Next event: Customer 92 Arrival
+135. Next event: Customer 93 Arrival
+136. Next event: Customer 94 Arrival
+137. Next event: Customer 43 Departure
+
+---------No. of customers delayed: 44--------
+
+138. Next event: Customer 95 Arrival
+139. Next event: Customer 96 Arrival
+140. Next event: Customer 44 Departure
+
+---------No. of customers delayed: 45--------
+
+141. Next event: Customer 97 Arrival
+142. Next event: Customer 98 Arrival
+143. Next event: Customer 99 Arrival
+144. Next event: Customer 45 Departure
+
+---------No. of customers delayed: 46--------
+
+145. Next event: Customer 46 Departure
+
+---------No. of customers delayed: 47--------
+
+146. Next event: Customer 47 Departure
+
+---------No. of customers delayed: 48--------
+
+147. Next event: Customer 100 Arrival
+148. Next event: Customer 101 Arrival
+149. Next event: Customer 102 Arrival
+150. Next event: Customer 103 Arrival
+151. Next event: Customer 104 Arrival
+152. Next event: Customer 48 Departure
+
+---------No. of customers delayed: 49--------
+
+153. Next event: Customer 49 Departure
+
+---------No. of customers delayed: 50--------
+
+154. Next event: Customer 105 Arrival
+155. Next event: Customer 50 Departure
+
+---------No. of customers delayed: 51--------
+
+156. Next event: Customer 106 Arrival
+157. Next event: Customer 107 Arrival
+158. Next event: Customer 51 Departure
+
+---------No. of customers delayed: 52--------
+
+159. Next event: Customer 52 Departure
+
+---------No. of customers delayed: 53--------
+
+160. Next event: Customer 108 Arrival
+161. Next event: Customer 109 Arrival
+162. Next event: Customer 53 Departure
+
+---------No. of customers delayed: 54--------
+
+163. Next event: Customer 54 Departure
+
+---------No. of customers delayed: 55--------
+
+164. Next event: Customer 110 Arrival
+165. Next event: Customer 111 Arrival
+166. Next event: Customer 112 Arrival
+167. Next event: Customer 113 Arrival
+168. Next event: Customer 114 Arrival
+169. Next event: Customer 115 Arrival
+170. Next event: Customer 116 Arrival
+171. Next event: Customer 55 Departure
+
+---------No. of customers delayed: 56--------
+
+172. Next event: Customer 117 Arrival
+173. Next event: Customer 118 Arrival
+174. Next event: Customer 56 Departure
+
+---------No. of customers delayed: 57--------
+
+175. Next event: Customer 119 Arrival
+176. Next event: Customer 57 Departure
+
+---------No. of customers delayed: 58--------
+
+177. Next event: Customer 120 Arrival
+178. Next event: Customer 121 Arrival
+179. Next event: Customer 122 Arrival
+180. Next event: Customer 123 Arrival
+181. Next event: Customer 58 Departure
+
+---------No. of customers delayed: 59--------
+
+182. Next event: Customer 59 Departure
+
+---------No. of customers delayed: 60--------
+
+183. Next event: Customer 124 Arrival
+184. Next event: Customer 125 Arrival
+185. Next event: Customer 60 Departure
+
+---------No. of customers delayed: 61--------
+
+186. Next event: Customer 126 Arrival
+187. Next event: Customer 127 Arrival
+188. Next event: Customer 128 Arrival
+189. Next event: Customer 61 Departure
+
+---------No. of customers delayed: 62--------
+
+190. Next event: Customer 129 Arrival
+191. Next event: Customer 62 Departure
+
+---------No. of customers delayed: 63--------
+
+192. Next event: Customer 130 Arrival
+193. Next event: Customer 63 Departure
+
+---------No. of customers delayed: 64--------
+
+194. Next event: Customer 131 Arrival
+195. Next event: Customer 64 Departure
+
+---------No. of customers delayed: 65--------
+
+196. Next event: Customer 65 Departure
+
+---------No. of customers delayed: 66--------
+
+197. Next event: Customer 66 Departure
+
+---------No. of customers delayed: 67--------
+
+198. Next event: Customer 67 Departure
+199. Next event: Customer 132 Arrival
+
+---------No. of customers delayed: 68--------
+
+200. Next event: Customer 133 Arrival
+201. Next event: Customer 68 Departure
+
+---------No. of customers delayed: 69--------
+
+202. Next event: Customer 69 Departure
+203. Next event: Customer 134 Arrival
+
+---------No. of customers delayed: 70--------
+
+204. Next event: Customer 135 Arrival
+205. Next event: Customer 70 Departure
+
+---------No. of customers delayed: 71--------
+
+206. Next event: Customer 71 Departure
+207. Next event: Customer 136 Arrival
+
+---------No. of customers delayed: 72--------
+
+208. Next event: Customer 137 Arrival
+209. Next event: Customer 138 Arrival
+210. Next event: Customer 139 Arrival
+211. Next event: Customer 140 Arrival
+212. Next event: Customer 141 Arrival
+213. Next event: Customer 72 Departure
+
+---------No. of customers delayed: 73--------
+
+214. Next event: Customer 142 Arrival
+215. Next event: Customer 73 Departure
+
+---------No. of customers delayed: 74--------
+
+216. Next event: Customer 74 Departure
+
+---------No. of customers delayed: 75--------
+
+217. Next event: Customer 143 Arrival
+218. Next event: Customer 144 Arrival
+219. Next event: Customer 75 Departure
+
+---------No. of customers delayed: 76--------
+
+220. Next event: Customer 145 Arrival
+221. Next event: Customer 146 Arrival
+222. Next event: Customer 147 Arrival
+223. Next event: Customer 148 Arrival
+224. Next event: Customer 76 Departure
+
+---------No. of customers delayed: 77--------
+
+225. Next event: Customer 149 Arrival
+226. Next event: Customer 77 Departure
+
+---------No. of customers delayed: 78--------
+
+227. Next event: Customer 150 Arrival
+228. Next event: Customer 151 Arrival
+229. Next event: Customer 152 Arrival
+230. Next event: Customer 153 Arrival
+231. Next event: Customer 154 Arrival
+232. Next event: Customer 78 Departure
+
+---------No. of customers delayed: 79--------
+
+233. Next event: Customer 79 Departure
+
+---------No. of customers delayed: 80--------
+
+234. Next event: Customer 155 Arrival
+235. Next event: Customer 156 Arrival
+236. Next event: Customer 157 Arrival
+237. Next event: Customer 80 Departure
+
+---------No. of customers delayed: 81--------
+
+238. Next event: Customer 158 Arrival
+239. Next event: Customer 159 Arrival
+240. Next event: Customer 81 Departure
+
+---------No. of customers delayed: 82--------
+
+241. Next event: Customer 82 Departure
+
+---------No. of customers delayed: 83--------
+
+242. Next event: Customer 160 Arrival
+243. Next event: Customer 161 Arrival
+244. Next event: Customer 162 Arrival
+245. Next event: Customer 83 Departure
+
+---------No. of customers delayed: 84--------
+
+246. Next event: Customer 84 Departure
+
+---------No. of customers delayed: 85--------
+
+247. Next event: Customer 163 Arrival
+248. Next event: Customer 85 Departure
+
+---------No. of customers delayed: 86--------
+
+249. Next event: Customer 164 Arrival
