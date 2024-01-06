@@ -1,7 +1,7 @@
 #include <math.h>
 #include <stdio.h>
-
 #include "lcgrand.h" /* Header file for random-number generator. */
+
 int amount, bigs, initial_inv_level, inv_level, next_event_type, num_events,
     num_months, num_values_demand, smalls;
 float area_holding, area_shortage, holding_cost, incremental_cost, maxlag,
@@ -9,6 +9,7 @@ float area_holding, area_shortage, holding_cost, incremental_cost, maxlag,
     shortage_cost, sim_time, time_last_event, time_next_event[5],
     total_ordering_cost;
 FILE *infile, *outfile;
+
 void initialize(void);
 void timing(void);
 void order_arrival(void);
@@ -26,27 +27,31 @@ int main() /* Main function. */
     /* Open input and output files. */
     infile = fopen("../io2/in.txt", "r");
     outfile = fopen("out.txt", "w");
+
     /* Specify the number of events for the timing function. */
     num_events = 4;
+
     /* Read input parameters. */
     fscanf(infile, "%d %d %d %d %f %f %f %f %f %f %f", &initial_inv_level,
            &num_months, &num_policies, &num_values_demand, &mean_interdemand,
            &setup_cost, &incremental_cost, &holding_cost, &shortage_cost,
            &minlag, &maxlag);
-    for (i = 1; i <= num_values_demand; ++i)
+    for (i = 1; i <= num_values_demand; ++i){
         fscanf(infile, "%f", &prob_distrib_demand[i]);
+    }
+
     /* Write report heading and input parameters. */
     fprintf(outfile, "------Single-Product Inventory System------\n\n");
-    fprintf(outfile, "Initial inventory level: %d items\n\n",
-            initial_inv_level);
+    fprintf(outfile, "Initial inventory level: %d items\n\n", initial_inv_level);
     fprintf(outfile, "Number of demand sizes: %d\n\n", num_values_demand);
+
     fprintf(outfile, "Distribution function of demand sizes: ");
-    for (i = 1; i <= num_values_demand; ++i)
+    for (i = 1; i <= num_values_demand; ++i){
         fprintf(outfile, "%.2f ", prob_distrib_demand[i]);
-    fprintf(outfile, "\n\nMean inter-demand time: %.2f months\n\n",
-            mean_interdemand);
-    fprintf(outfile, "Delivery lag range: %.2f to %.2f months\n\n", minlag,
-            maxlag);
+    }
+
+    fprintf(outfile, "\n\nMean inter-demand time: %.2f months\n\n", mean_interdemand);
+    fprintf(outfile, "Delivery lag range: %.2f to %.2f months\n\n", minlag, maxlag);
     fprintf(outfile, "Length of simulation: %d months\n\n", num_months);
 
     fprintf(outfile, "Costs:\n");
@@ -57,15 +62,10 @@ int main() /* Main function. */
 
     fprintf(outfile, "Number of policies: %d\n\n", num_policies);
     fprintf(outfile, "Policies:\n");
-    fprintf(outfile,
-            "------------------------------------------------------------------"
-            "--------------------------------\n");
+    fprintf(outfile, "--------------------------------------------------------------------------------------------------\n");
     fprintf(outfile, " %-13s  %-18s  %-18s  %-18s  %-18s \n", "Policy",
-            "Avg_total_cost", "Avg_ordering_cost", "Avg_holding_cost",
-            "Avg_shortage_cost");
-    fprintf(outfile,
-            "------------------------------------------------------------------"
-            "--------------------------------\n");
+            "Avg_total_cost", "Avg_ordering_cost", "Avg_holding_cost", "Avg_shortage_cost");
+    fprintf(outfile, "--------------------------------------------------------------------------------------------------\n");
 
     /* Run the simulation varying the inventory policy. */
     for (i = 1; i <= num_policies; ++i)
@@ -73,8 +73,7 @@ int main() /* Main function. */
         /* Read the inventory policy, and initialize the simulation. */
         fscanf(infile, "%d %d", &smalls, &bigs);
         initialize();
-        /* Run the simulation until it terminates after an end-simulation event
-        (type 3) occurs. */
+        /* Run the simulation until it terminates after an end-simulation event (type 3) occurs. */
         do
         {
             /* Determine the next event. */
@@ -84,27 +83,24 @@ int main() /* Main function. */
             /* Invoke the appropriate event function. */
             switch (next_event_type)
             {
-            case 1:
-                order_arrival();
-                break;
-            case 2:
-                demand();
-                break;
-            case 4:
-                evaluate();
-                break;
-            case 3:
-                report();
-                break;
+                case 1:
+                    order_arrival();
+                    break;
+                case 2:
+                    demand();
+                    break;
+                case 4:
+                    evaluate();
+                    break;
+                case 3:
+                    report();
+                    break;
             }
-            /* If the event just executed was not the end-simulation event (type
-            3), continue simulating. Otherwise, end the simulation for the
-            current (s,S) pair and go on to the next pair (if any). */
+            /* If the event just executed was not the end-simulation event (type 3), continue simulating. 
+            Otherwise, end the simulation for the current (s,S) pair and go on to the next pair (if any). */
         } while (next_event_type != 3);
     }
-    fprintf(outfile,
-            "\n----------------------------------------------------------------"
-            "----------------------------------");
+    fprintf(outfile, "\n--------------------------------------------------------------------------------------------------");
     /* End the simulations. */
     fclose(infile);
     fclose(outfile);
@@ -122,8 +118,7 @@ void initialize(void) /* Initialization function. */
     total_ordering_cost = 0.0;
     area_holding = 0.0;
     area_shortage = 0.0;
-    /* Initialize the event list. Since no order is outstanding, the order-
-    arrival event is eliminated from consideration. */
+    /* Initialize the event list. Since no order is outstanding, the order-arrival event is eliminated from consideration. */
     time_next_event[1] = 1.0e+30;
     time_next_event[2] = sim_time + expon(mean_interdemand);
     time_next_event[3] = num_months;
@@ -134,8 +129,7 @@ void order_arrival(void) /* Order arrival event function. */
 {
     /* Increment the inventory level by the amount ordered. */
     inv_level += amount;
-    /* Since no order is now outstanding, eliminate the order-arrival event from
-    consideration. */
+    /* Since no order is now outstanding, eliminate the order-arrival event from consideration. */
     time_next_event[1] = 1.0e+30;
 }
 
@@ -159,8 +153,7 @@ void evaluate(void) /* Inventory-evaluation event function. */
         /* Schedule the arrival of the order. */
         time_next_event[1] = sim_time + uniform(minlag, maxlag);
     }
-    /* Regardless of the place-order decision, schedule the next inventory
-    evaluation. */
+    /* Regardless of the place-order decision, schedule the next inventory evaluation. */
     time_next_event[4] = sim_time + 1.0;
 }
 
@@ -176,8 +169,7 @@ void report(void) /* Report generator function. */
             avg_ordering_cost, avg_holding_cost, avg_shortage_cost);
 }
 
-void update_time_avg_stats(void) /* Update area accumulators for time-average
- statistics. */
+void update_time_avg_stats(void) /* Update area accumulators for time-average statistics. */
 {
     float time_since_last_event;
     /* Compute time since last event, and update last-event-time marker. */
@@ -193,15 +185,13 @@ void update_time_avg_stats(void) /* Update area accumulators for time-average
         area_holding += inv_level * time_since_last_event;
 }
 
-int random_integer(float prob_distrib[]) /* Random integer generation
- function. */
+int random_integer(float prob_distrib[]) /* Random integer generation function. */
 {
     int i;
     float u;
     /* Generate a U(0,1) random variate. */
     u = lcgrand(1);
-    /* Return a random integer in accordance with the (cumulative) distribution
-    function prob_distrib. */
+    /* Return a random integer in accordance with the (cumulative) distribution function prob_distrib. */
     for (i = 1; u >= prob_distrib[i]; ++i)
         ;
     return i;
@@ -213,7 +203,6 @@ float uniform(float a, float b) /* Uniform variate generation function. */
     return a + lcgrand(1) * (b - a);
 }
 
-/* Function to determine the next event and set the time for it. */
 void timing(void) /* Timing function. */
 {
     int i;
@@ -236,7 +225,6 @@ void timing(void) /* Timing function. */
     sim_time = min_time_next_event;
 }
 
-/* Function to generate exponentially distributed random numbers. */
 float expon(float mean) /* Exponential variate generation function. */
 {
     return -mean * log(lcgrand(1));
